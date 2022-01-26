@@ -1,0 +1,12 @@
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\Fitnes.BL.dll
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\Fitnes.BL.pdb
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\obj\Debug\Fitnes.BL.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\obj\Debug\Fitnes.BL.dll
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\obj\Debug\Fitnes.BL.pdb
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\Fitnes.BL.dll.config
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\EntityFramework.dll
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\EntityFramework.xml
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\obj\Debug\Fitnes.BL.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Fitnes_app\Fitnes.BL\obj\Debug\Fitnes.BL.csproj.CopyComplete
