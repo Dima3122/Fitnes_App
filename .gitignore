@@ -2,27 +2,19 @@
 *.orig
 *.pubxml
 */generated/*
-_ReSharper.Caches/
 **/output/*
 **/topush/*
 xep/*
 **/.vscode/
 packages
-**/Properties/launchSettings.json
 *.suo
 *.user
 .idea/
 
-Trainer/JackPokerHeadlessTrainer/Logs/
-Trainer/JackPokerHeadlessTrainer/ECOSYSTEM.p12
-Configurator/MockConfigurator/Configuration/config.json
 **/bin
 **/obj
 /obj/
 /bin/
 
-/Logs/
 .env
 .DS_Store
-/Trainer/JackPokerHeadlessTrainer/ECOSYSTEM.p12
-/.config/dotnet-tools.json
